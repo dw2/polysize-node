@@ -1,0 +1,29 @@
+{
+  "name": "polysize-node",
+  "version": "1.0.0",
+  "description": "A JavaScript tool for resizing images using HTML5 Canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dw2/polysize-node.git"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "manipulation",
+    "cropping",
+    "resizing",
+    "canvas",
+    "client",
+    "polysize"
+  ],
+  "author": "Douglas Waltman II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dw2/polysize-node/issues"
+  },
+  "homepage": "https://github.com/dw2/polysize-node#readme"
+}
