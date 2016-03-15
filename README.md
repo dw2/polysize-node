@@ -8,9 +8,9 @@ Navigate to your project in your console and run:
 
 `npm install polysize-node --save`
 
-Then, in your project, require the package:
+In your project, requiring the package will give you the Polysize "class":
 
-`var polysize = require('polysize-node');`
+`var Polysize = require('polysize-node');`
 
 ## Usage
 

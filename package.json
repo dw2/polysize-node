@@ -1,7 +1,7 @@
 {
   "name": "polysize-node",
   "version": "1.0.0",
-  "description": "A JavaScript tool for resizing images using HTML5 Canvas.",
+  "description": "Polysize is a JavaScript tool for resizing images using HTML5 Canvas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
